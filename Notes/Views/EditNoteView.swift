@@ -21,7 +21,6 @@ struct EditNoteView: View {
     }
     .navigationTitle("Edit “\(note.title)”")
   }
-    
 }
 
 struct EditNoteView_Previews: PreviewProvider {
